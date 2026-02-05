@@ -12,7 +12,7 @@ The project builds a deep neural network from scratch (using NumPy) to classify 
 - `Assignment.ipynb`  
   Jupyter Notebook containing the full implementation, training, evaluation, and visualisation code.
 
-- `npy.zip`  
+- `npy files.zip`  
   Zipped MNIST dataset files used by the notebook:
   - `train_images.npy`
   - `train_labels.npy`
@@ -27,7 +27,7 @@ The project builds a deep neural network from scratch (using NumPy) to classify 
 ## How to run the notebook
 
 1. Clone or download this repository.
-2. Extract `npy.zip` into the same directory as `Assignment.ipynb`.
+2. Extract `npy files.zip` into the same directory as `Assignment.ipynb`.
    After extraction, the following files must be present in the folder:
    - `train_images.npy`
    - `train_labels.npy`
